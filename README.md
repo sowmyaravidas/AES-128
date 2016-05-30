@@ -1,2 +1,2 @@
 # AES-128
-Implementation of AES 128 in C
+This repository contains the code of AES 128 implemented in C (as part of Cryptography assignment). 
